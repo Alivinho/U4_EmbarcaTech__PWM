@@ -10,12 +10,22 @@ O objetivo deste projeto é fornecer um exemplo prático de como controlar um se
 
 O projeto consiste em um único arquivo de código-fonte (`main.c`), que contém toda a lógica necessária para controlar o servo motor. Abaixo está a estrutura do projeto:
 
-### Explicação da Formatação
+### Descrição dos Diretórios e Arquivos
+- **`main.c`**: Código principal que implementa a lógica de controle PWM.
+
+- **`CMakeLists.txt`**: Arquivo de configuração do CMake, usado para compilar o projeto com o `pico-sdk`.
 
 
 
+---
 
+### Como Usar
 
+1. Copie a estrutura acima.
+2. Cole no arquivo `README.md` do seu repositório.
+3. Ajuste os nomes dos arquivos e pastas conforme a estrutura real do seu projeto.
+
+Se precisar de mais detalhes ou ajustes específicos, é só avisar! 😊
 
 ## Instruções de Uso
 
