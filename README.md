@@ -10,6 +10,10 @@ O objetivo deste projeto é fornecer um exemplo prático de como controlar um se
 
 O projeto consiste em um único arquivo de código-fonte (`main.c`), que contém toda a lógica necessária para controlar o servo motor. Abaixo está a estrutura do projeto:
 
+### Explicação da Formatação
+
+
+
 
 
 
@@ -53,4 +57,6 @@ Conecte o servo motor à Raspberry Pi Pico da seguinte forma:
   * Converte o valor de us para o nível de duty cycle correspondente.
 
 ## Link do Vídeo
+
+https://drive.google.com/file/d/1GljtGajrxTWVWFp9EYYZj5z0JZaRYg6n/view?usp=sharing
 
